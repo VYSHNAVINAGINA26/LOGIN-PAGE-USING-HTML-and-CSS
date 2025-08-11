@@ -1,0 +1,78 @@
+.div1{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.div2{
+    margin-top: 70px;
+    margin-left:120px;
+}
+.text{
+    width: 270px;
+    height: 30px;
+    margin-top: 30px;
+}
+.password{
+      width: 270px;
+    height: 30px;
+    margin-top: 10px;
+}
+.flex{
+    display: flex;
+}
+.button{
+    background-color:aqua;
+    width: 280px;
+    height: 30px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    color: white;
+}
+.hr1{
+     display: inline-block;
+     width: 120px;
+}
+.hr2{
+     display: inline-block;
+     width: 120px;
+}
+.te{
+    text-decoration: none;
+    padding-left: 10px;
+}
+.move{
+    margin-left: 40px;
+}
+.forget{
+    margin-left: 60px;
+}
+.signup{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.abc{
+    margin-left: 5px;
+    text-decoration: none;
+}
+.insta{
+    margin-left: 60px;
+}
+.bc{
+    margin-left: 10px;
+}
+.footer{
+    margin-left: 250px;
+}
+.arrow{
+    border: none;
+}
+.foot{
+margin-left: 15px;
+}
+.last{
+    margin-left: 560px;
+    margin-top: 20px;
+}
+footer{
+    margin-top: 80px;
+}
